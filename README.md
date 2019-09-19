@@ -1,2 +1,1 @@
-# TodoApp_React
-Todo app using React 
+# Learning Web development
