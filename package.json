@@ -18,7 +18,7 @@
     "concurrently": "^4.1.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.6.10",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1",
     "routes": "^2.1.0"
   }
